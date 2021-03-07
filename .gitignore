@@ -7,3 +7,4 @@
 *.class
 SpringBootMVC/target
 SpringBootMVC/.idea/
+.idea/vcs.xml
